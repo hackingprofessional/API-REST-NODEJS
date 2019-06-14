@@ -16,7 +16,9 @@ Probando Nuestra API.
     <a href="https://hackingprofessional.github.io/Security/images/CrearUsuarioPOST.png" title="Validando el servicio de registro de usuarios">Validando el servicio de registro de usuarios</a>.
   </figcaption>
 </figure>  
+
 ---  
+
 **Servicio de autenticacion, para generar el token**  
 **POST http://localhost:3000/users/authenticate**  
 
