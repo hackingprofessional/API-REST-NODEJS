@@ -7,7 +7,7 @@ Te invito a leer el siguiente post donde explico la creacion de este desarrollo.
 ## Resultado de la aplicacion
 Probando Nuestra API.
 
-Registro de usuarios.  
+**Registro de usuarios.**  
 **POST http://localhost:3000/users/register**    
 
 <figure>
@@ -16,7 +16,7 @@ Registro de usuarios.
     <a href="https://hackingprofessional.github.io/Security/images/CrearUsuarioPOST.png" title="Validando el servicio de registro de usuarios">Validando el servicio de registro de usuarios</a>.
   </figcaption>
 </figure>
-
+---
 **Servicio de autenticacion, para generar el token**  
 **POST http://localhost:3000/users/authenticate**  
 
@@ -26,7 +26,7 @@ Registro de usuarios.
     <a href="https://hackingprofessional.github.io/Security/images/AuthPOST.png" title="Validando el servicio de autenticacion sobre un usuario registrado">Validando el servicio de autenticacion</a>
   </figcaption>
 </figure>
-
+---
 **Listado completo de videojuegos sin token de autenticacion**  
 **GET http://localhost:3000/videogames**  
 
