@@ -47,7 +47,7 @@ Registro de usuarios.
   </figcaption>
 </figure>
 
-**Listado de videojuegos por ID (Listado Dinamico)**
+**Listado de videojuegos por ID (Listado Dinamico)**  
 **GET http://localhost:3000/videogames/XXXXXXX**  
 <figure>
   <img src="https://hackingprofessional.github.io/Security/images/LeerDinamicoGET.png" width="40%" height="55%">
@@ -56,7 +56,7 @@ Registro de usuarios.
   </figcaption>
 </figure>  
 
-**Actualizacion de videojuegos por ID**
+**Actualizacion de videojuegos por ID**  
 **PUT http://localhost:3000/videogames/XXXXXXX**  
 <figure>
   <img src="https://hackingprofessional.github.io/Security/images/ActualizarRegistroPUT.png" width="40%" height="55%">
@@ -65,7 +65,7 @@ Registro de usuarios.
   </figcaption>
 </figure>
 
-**Eliminacion de videojuegos por ID**
+**Eliminacion de videojuegos por ID**  
 **DELETE http://localhost:3000/videogames/XXXXXXX**  
 <figure>
   <img src="https://hackingprofessional.github.io/Security/images/EliminarRegistro.png" width="40%" height="55%">
