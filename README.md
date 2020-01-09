@@ -11,9 +11,9 @@ Probando Nuestra API.
 **POST http://localhost:3000/users/register**    
 
 <figure>
-  <img src="https://hackingprofessional.github.io/Security/images/CrearUsuarioPOST.png" width="40%" height="55%">
+  <img src="https://hackingprofessional.github.io/Security/img/CrearUsuarioPOST.png" width="40%" height="55%">
 	<figcaption>
-    <a href="https://hackingprofessional.github.io/Security/images/CrearUsuarioPOST.png" title="Validando el servicio de registro de usuarios">Validando el servicio de registro de usuarios</a>.
+    <a href="https://hackingprofessional.github.io/Security/img/CrearUsuarioPOST.png" title="Validando el servicio de registro de usuarios">Validando el servicio de registro de usuarios</a>.
   </figcaption>
 </figure>  
 
@@ -23,9 +23,9 @@ Probando Nuestra API.
 **POST http://localhost:3000/users/authenticate**  
 
 <figure>
-  <img src="https://hackingprofessional.github.io/Security/images/AuthPOST.png" width="40%" height="55%">
+  <img src="https://hackingprofessional.github.io/Security/img/AuthPOST.png" width="40%" height="55%">
 	<figcaption>
-    <a href="https://hackingprofessional.github.io/Security/images/AuthPOST.png" title="Validando el servicio de autenticacion sobre un usuario registrado">Validando el servicio de autenticacion</a>
+    <a href="https://hackingprofessional.github.io/Security/img/AuthPOST.png" title="Validando el servicio de autenticacion sobre un usuario registrado">Validando el servicio de autenticacion</a>
   </figcaption>
 </figure>  
 
@@ -35,9 +35,9 @@ Probando Nuestra API.
 **GET http://localhost:3000/videogames**  
 
 <figure>
-  <img src="https://hackingprofessional.github.io/Security/images/ErrorJWT.png" width="40%" height="55%">
+  <img src="https://hackingprofessional.github.io/Security/img/ErrorJWT.png" width="40%" height="55%">
 	<figcaption>
-    <a href="https://hackingprofessional.github.io/Security/images/ErrorJWT.png" title="Intentando consumir un servicio protegido sin ningun token">Intentando consumir un servicio protegido sin ningun token</a>
+    <a href="https://hackingprofessional.github.io/Security/img/ErrorJWT.png" title="Intentando consumir un servicio protegido sin ningun token">Intentando consumir un servicio protegido sin ningun token</a>
   </figcaption>
 </figure>  
 
@@ -47,9 +47,9 @@ Probando Nuestra API.
 **GET http://localhost:3000/videogames**  
 
 <figure>
-  <img src="https://hackingprofessional.github.io/Security/images/LeerRegistroGET.png" width="40%" height="55%">
+  <img src="https://hackingprofessional.github.io/Security/img/LeerRegistroGET.png" width="40%" height="55%">
 	<figcaption>
-    <a href="https://hackingprofessional.github.io/Security/images/LeerRegistroGET.png" title="Consumiendo un servicio protegido con un token de autenticacion">Consumiendo un servicio protegido con un token de autenticacion</a>
+    <a href="https://hackingprofessional.github.io/Security/img/LeerRegistroGET.png" title="Consumiendo un servicio protegido con un token de autenticacion">Consumiendo un servicio protegido con un token de autenticacion</a>
   </figcaption>
 </figure>  
 
@@ -58,9 +58,9 @@ Probando Nuestra API.
 **Listado de videojuegos por ID (Listado Dinamico)**  
 **GET http://localhost:3000/videogames/XXXXXXX**  
 <figure>
-  <img src="https://hackingprofessional.github.io/Security/images/LeerDinamicoGET.png" width="40%" height="55%">
+  <img src="https://hackingprofessional.github.io/Security/img/LeerDinamicoGET.png" width="40%" height="55%">
 	<figcaption>
-    <a href="https://hackingprofessional.github.io/Security/images/LeerDinamicoGET.png" title="Consumiendo un servicio protegido con un token de autenticacion">Consumiendo un servicio protegido con un token de autenticacion</a>
+    <a href="https://hackingprofessional.github.io/Security/img/LeerDinamicoGET.png" title="Consumiendo un servicio protegido con un token de autenticacion">Consumiendo un servicio protegido con un token de autenticacion</a>
   </figcaption>
 </figure>   
 
@@ -69,9 +69,9 @@ Probando Nuestra API.
 **Actualizacion de videojuegos por ID**  
 **PUT http://localhost:3000/videogames/XXXXXXX**  
 <figure>
-  <img src="https://hackingprofessional.github.io/Security/images/ActualizarRegistroPUT.png" width="40%" height="55%">
+  <img src="https://hackingprofessional.github.io/Security/img/ActualizarRegistroPUT.png" width="40%" height="55%">
 	<figcaption>
-    <a href="https://hackingprofessional.github.io/Security/images/ActualizarRegistroPUT.png" title="Actualizar un registro existente de la base de datos">Actualizar un registro existente de la base de datos</a>
+    <a href="https://hackingprofessional.github.io/Security/img/ActualizarRegistroPUT.png" title="Actualizar un registro existente de la base de datos">Actualizar un registro existente de la base de datos</a>
   </figcaption>
 </figure>  
 
@@ -80,9 +80,9 @@ Probando Nuestra API.
 **Eliminacion de videojuegos por ID**  
 **DELETE http://localhost:3000/videogames/XXXXXXX**  
 <figure>
-  <img src="https://hackingprofessional.github.io/Security/images/EliminarRegistro.png" width="40%" height="55%">
+  <img src="https://hackingprofessional.github.io/Security/img/EliminarRegistro.png" width="40%" height="55%">
 	<figcaption>
-    <a href="https://hackingprofessional.github.io/Security/images/EliminarRegistro.png" title="Actualizar un registro existente de la base de datos">Actualizar un registro existente de la base de datos</a>
+    <a href="https://hackingprofessional.github.io/Security/img/EliminarRegistro.png" title="Actualizar un registro existente de la base de datos">Actualizar un registro existente de la base de datos</a>
   </figcaption>
 </figure>
 
